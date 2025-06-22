@@ -1,7 +1,7 @@
 # Golang Exercise Repository
 
-Selamat datang di repository **Golang-Exercise**! 🎯  
-Repository ini berisi kumpulan latihan dan progres pembelajaran saya dalam bahasa pemrograman Go (Golang). Proyek ini bertujuan sebagai dokumentasi pribadi serta referensi bagi siapa pun yang ingin mempelajari dasar-dasar hingga fitur lanjutan dari Go.
+Malam guys **Golang-Exercise**! 🎯  
+Gatau kenapa jadi pengen belajar golang alias bahasa yang var gaboleh kosong nanti dimarahin. Repo ini emang buat gabut aja commit-commit iseng daripada main roblox terus. Buat yang punya krisar bisa langsung coment, siap belajar sampe cv ada line 3year++ golang experience
 
 ---
 
@@ -20,5 +20,5 @@ Beberapa topik yang sudah/sedang saya pelajari:
 
 ---
 
-## 📁 Struktur Direktori
+
 
