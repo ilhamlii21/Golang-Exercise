@@ -15,3 +15,5 @@ func main() {
 	fmt.Println("Apakah lulus nilai akhir? ", lulusNilaiAkhir)
 
 }
+
+//mm
