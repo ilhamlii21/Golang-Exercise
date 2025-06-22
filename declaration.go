@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	type NoKtp string
+	type NoKtp string //deklarasi dengan type data string
 
 	var ktpilham NoKtp = "2311104068"
 	var contoh string = "2222222222"

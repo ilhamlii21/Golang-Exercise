@@ -9,5 +9,6 @@ func main() {
 	//const bisa deklarasi tanpa digunakan
 
 	fmt.Println(firstname)
+	fmt.Println(lastname)
 
 }
