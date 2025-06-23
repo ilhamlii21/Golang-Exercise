@@ -2,7 +2,7 @@
 
  **Golang-Exercise**! 🎯  
 Malam guys
-Gatau kenapa jadi pengen belajar golang alias bahasa yang var gaboleh kosong nanti dimarahin. Repo ini emang buat gabut aja commit-commit iseng daripada main roblox terus. Buat yang punya krisar bisa langsung coment, siap belajar sampe cv ada line 3year++ golang experience
+Gatau kenapa jadi pengen belajar golang alias bahasa yang var gaboleh nganggur nanti dimarahin. Repo ini emang buat gabut aja commit-commit iseng daripada main roblox terus. Buat yang punya krisar bisa langsung coment, siap belajar sampe cv ada line 3year++ golang experience
 
 ---
 
