@@ -14,4 +14,5 @@ func main() {
 	daySlice2[0] = "Ups"
 	fmt.Println(daySlice2) // Menampilkan elemen dari daySlice2 yang sudah ditambahkan "Libur Baru"
 	fmt.Println(days)
+
 }
