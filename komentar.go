@@ -8,3 +8,5 @@ import "fmt"
 func main() {
 	fmt.Println("ilham Lii") //ini komentar
 }
+
+func

@@ -1,1 +1,1 @@
-BlackList func(string) string
+return 1
